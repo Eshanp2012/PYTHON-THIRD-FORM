@@ -13,8 +13,8 @@ Q2
 In this question, the code has been mixed up. Put the lines into the correct order so that that program will count the number of occurrences of "a" in "banana":
 
 Mixed lines of code:
-if char == "a":
 for char in word:
+if char == "a":
 count = count + 1
 word = "banana"
 count = 0
